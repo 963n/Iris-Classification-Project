@@ -9,7 +9,7 @@ Clean UI. Accurate predictions. Ready to use. 🌱
 
 [![🚀 Launch App](https://img.shields.io/badge/Launch_App-Streamlit-brightgreen?style=for-the-badge&logo=streamlit)](https://iris-ml-classification-project.streamlit.app/)
 [![Open Notebook in Colab](https://img.shields.io/badge/Open%20in-Colab-orange?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/github/963n/iris/blob/main/iris.ipynb)
-[![📂 View Repository](https://img.shields.io/badge/View_on-GitHub-black?style=for-the-badge&logo=github)](https://github.com/963n/iris-classification)
+[![📂 View Repository](https://img.shields.io/badge/View_on-GitHub-black?style=for-the-badge&logo=github)](https://github.com/963n/iris-classification-project)
 
 ---
 
