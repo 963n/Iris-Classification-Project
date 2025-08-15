@@ -126,7 +126,7 @@ This project can be extended and improved in several ways:
 
 📍 Madinah, Saudi Arabia 
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-000?logo=github&logoColor=fff)](https://github.com/yourusername)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-000?logo=github&logoColor=fff)](https://github.com/963n)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/mohammed-alawfi-3913a5378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
