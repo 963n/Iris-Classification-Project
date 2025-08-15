@@ -75,9 +75,40 @@ Dataset file: **`IRIS.csv`**
 
 ## 🔍 Notes & Tips
 
-- Feature order: `[sepal_length, sepal_width, petal_length, petal_width]`
-- After retraining, make sure the app loads the updated `trained_model.sav`
-- Keep screenshot paths correct for GitHub display
+- **Feature order:** Enter the values in this order → `[sepal_length, sepal_width, petal_length, petal_width]`
+- **Units:** All measurements are in **centimeters (cm)**.
+- **Value range:**  
+  - Sepal Length: 4.3 – 7.9 cm  
+  - Sepal Width: 2.0 – 4.4 cm  
+  - Petal Length: 1.0 – 6.9 cm  
+  - Petal Width: 0.1 – 2.5 cm  
+- Use the sliders in the app to adjust values and see predictions instantly.
+- No installation needed if you use the **Launch App** button — it runs in your browser.
+- For offline use:  
+  1. Download the repo.  
+  2. Install requirements:  
+     ```
+     pip install -r requirements.txt
+     ```  
+  3. Run the app:  
+     ```
+     streamlit run streamlit_app.py
+     ```
+- Try slightly changing values to see how predictions switch between **Setosa**, **Versicolor**, and **Virginica**.
+
+---
+
+## 🚀 Future Usage & Improvements
+
+This project can be extended and improved in several ways:
+
+- **More datasets** – Allow users to choose from multiple datasets (e.g., other flower species).
+- **Model selection** – Let users pick different ML algorithms (RandomForest, SVM, etc.) and compare results.
+- **Accuracy display** – Show the model’s confidence score alongside predictions.
+- **Data visualization** – Add scatter plots or histograms to visualize inputs vs. predictions.
+- **Mobile optimization** – Improve the UI for mobile screens.
+- **User input history** – Show a table of previous predictions during the same session.
+- **Cloud deployment** – Host on Streamlit Cloud, Hugging Face Spaces, or AWS for broader access.
 
 ---
 
