@@ -7,16 +7,14 @@ Clean UI. Accurate predictions. Ready to use. 🌱
 
 ## 🔗 Quick Access
 
-[![🚀 Launch App](https://img.shields.io/badge/Launch_App-Streamlit-brightgreen?style=for-the-badge&logo=streamlit)](https://example.com/your-streamlit-app)
-[![💻 Open Notebook in Colab](https://img.shields.io/badge/Open_in-Colab-orange?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/github/yourusername/iris-classification/blob/main/iris.ipynb)
-[![📂 View Repository](https://img.shields.io/badge/View_on-GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername/iris-classification)
-[![▶️ Run Locally](https://img.shields.io/badge/Run_Locally-Terminal-555?style=for-the-badge&logo=gnometerminal)](#-installation--usage)
+[![🚀 Launch App](https://img.shields.io/badge/Launch_App-Streamlit-brightgreen?style=for-the-badge&logo=streamlit)]([https://example.com/your-streamlit-app](https://iris-ml-classification-project.streamlit.app/))
+[![💻 Open Notebook in Colab](https://img.shields.io/badge/Open_in-Colab-orange?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/github/963n/iris-classification/blob/main/iris.ipynb)
+[![📂 View Repository](https://img.shields.io/badge/View_on-GitHub-black?style=for-the-badge&logo=github)](https://github.com/963n/iris-classification)
 
 ---
 
 ## 📸 App Preview
 
-> Replace the path below with your actual screenshot file (e.g., `assets/app_preview.png`)
 
 ![Iris Classification App Screenshot](assets/app_preview.png)
 
