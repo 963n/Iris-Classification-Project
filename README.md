@@ -90,9 +90,11 @@ Dataset file: **`IRIS.csv`**
 
 ---
 
-## ✍️ Author
+## 🧑‍💻 Author
 
 **Mohammed Alawfi**  
+
+📍 Madinah, Saudi Arabia 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-000?logo=github&logoColor=fff)](https://github.com/yourusername)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/yourlinkedin)
 
