@@ -16,7 +16,7 @@ Clean UI. Accurate predictions. Ready to use. 🌱
 ## 📸 App Preview
 
 
-![Iris Classification App Screenshot](https://github.com/963n/Iris-Classification-Project/blob/master/app_screenshot.png)
+![Iris Classification App Screenshot](https://github.com/963n/Iris-Classification-Project/blob/master/ST_UI_TEST.png)
 
 ---
 
