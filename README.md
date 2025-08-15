@@ -42,7 +42,6 @@ Dataset file: **`IRIS.csv`**
 ### 3) App Logic (Streamlit)
 - Sliders for the four measurements
 - Click **Result** to run inference
-- Shows prediction with emoji 🌱🌼🌸
 
 ---
 
